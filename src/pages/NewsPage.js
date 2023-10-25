@@ -105,13 +105,11 @@ const NewsPage = () => {
                     <div class="overlay"></div>
                     <div className="text Big-heading">
                         <p>
-
                             <span className="THE">NEWS </span>
-
                         </p>
                     </div>
                 </div>
-                <div className="news news-detail">
+                {/* <div className="news news-detail">
                     
                     <div> <div class="container1">
                         <img class="left-image" src={elipse} alt="Left Image" />
@@ -133,7 +131,7 @@ const NewsPage = () => {
                     </div></div>
 
 
-                </div>
+                </div> */}
                 <div className="news-items">
                     <div className="data-heading">
                         <span></span>

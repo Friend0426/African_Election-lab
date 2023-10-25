@@ -25,7 +25,7 @@ const DataPage = () => {
                         </p>
                     </div>
                 </div>
-        <HowWeVote />
+        
         {/* <Election /> */}
         <DataCard/>
 
